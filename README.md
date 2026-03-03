@@ -20,7 +20,9 @@ This project analyses sales data using Python, Pandas, Matplotlib and profession
 
   The image below shows the 3D revenue chart created in JupyterLab:
 
-  ![3D Revenue Chart](revenue_3d_chart.png)
+ ![3D Revenue Charts](revenue_3d_chart.png)
+ 
+  
 
   ---
 
